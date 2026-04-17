@@ -1,0 +1,37 @@
+[
+  {
+    "city": "Karachi",
+    "temperature_c": 31,
+    "condition": "Humid",
+    "humidity": 68,
+    "text": "Karachi weather is humid with temperature 31C and humidity 68 percent."
+  },
+  {
+    "city": "Lahore",
+    "temperature_c": 34,
+    "condition": "Sunny",
+    "humidity": 40,
+    "text": "Lahore weather is sunny with temperature 34C and humidity 40 percent."
+  },
+  {
+    "city": "Islamabad",
+    "temperature_c": 27,
+    "condition": "Cloudy",
+    "humidity": 52,
+    "text": "Islamabad weather is cloudy with temperature 27C and humidity 52 percent."
+  },
+  {
+    "city": "London",
+    "temperature_c": 16,
+    "condition": "Rainy",
+    "humidity": 74,
+    "text": "London weather is rainy with temperature 16C and humidity 74 percent."
+  },
+  {
+    "city": "New York",
+    "temperature_c": 21,
+    "condition": "Partly Cloudy",
+    "humidity": 58,
+    "text": "New York weather is partly cloudy with temperature 21C and humidity 58 percent."
+  }
+]
